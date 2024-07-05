@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "Modern JavaScript Frameworks",
+    "organisation": "React.js: Experience with component-based architecture and state management.",
+    "startDate": "React.js: Experience with component-based architecture and state management",
+    "endDate": "Present",
+    "experiences": [
+      "Vue.js or Angular: If applicable, mention any experience with other popular frameworks.",
+      "Created a real-time chat application using Vue.js, leveraging Vuex for state management"
+    ],
+    "imageSrc": "company/react.png"
+  },
+  {
+    "id": 2,
+    "role": "Back-End Development",
+    "organisation": "Mirosoft",
+    "startDate": "MongoDB: Experience with NoSQL databases",
+  
+    
+    "experiences": [
+      "Designed and implemented a MongoDB database schema for a task management application",
+      "SQL Databases: If applicable, mention experience with relational databases like MySQL or PostgreSQL"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Security and Authentication",
+    "organisation": "JSON Web Tokens",
+    "startDate": "JSON Web Tokens",
+    "endDate": "OAuth",
+
+    "experiences": [
+      "JWT: Implementation of JSON Web Tokens for secure authentication.",
+      "OAuth: Experience with OAuth for third-party authentication"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
